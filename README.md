@@ -41,7 +41,7 @@ Esto significa que:
 - Si haces cambios o usas Custos como servicio (por ejemplo, alojando el bot o una API derivada), **debes publicar también el código fuente modificado**.  
 - No se permite el uso cerrado o privativo de este software.
 
-> © 2025 Meyel. Custos es un proyecto de código abierto con fines educativos y de protección comunitaria.
+> © 2025 HyperLumi Network. Custos es un proyecto de código abierto con fines educativos y de protección comunitaria.
 
 ---
 
