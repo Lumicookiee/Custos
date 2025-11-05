@@ -1,0 +1,50 @@
+{
+  "name": "custos",
+  "version": "1.0.0",
+  "description": "Custos es un sistema ético de reputación y seguridad global para comunidades de Discord. Desarrollado por HyperLumi Network, protege a los usuarios y servidores frente a grooming, estafas, abuso digital y contenido ilegal mediante reportes verificados y revisión humana.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No hay pruebas definidas aún\" && exit 0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "custos",
+    "seguridad",
+    "moderacion",
+    "ethical-ai",
+    "hyperlumi",
+    "reputacion",
+    "proteccion"
+  ],
+  "author": {
+    "name": "Lumicookiee",
+    "url": "https://github.com/Lumicookiee"
+  },
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lumicookiee/Custos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lumicookiee/Custos/issues"
+  },
+  "homepage": "https://github.com/Lumicookiee/Custos#readme",
+  "contributors": [
+    {
+      "name": "HyperLumi Network",
+      "url": "https://hyperlumi.net"
+    }
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.24.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
